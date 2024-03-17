@@ -1,0 +1,21 @@
+{
+  "name": "piza_aapp",
+  "version": "1.0.0",
+  "description": "Piza aap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chetan nagmoti",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongodb": "^5.6.0",
+    "mongoose": "^7.3.0",
+    "nodemailer": "^6.9.3",
+    "razorpay": "^2.8.6",
+    "socket.io": "^4.7.0"
+  }
+}
