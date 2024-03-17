@@ -57,28 +57,4 @@ clicking success, place and confirm the order.
 7. After an order, update the necessary changes in stock and present them in the admin dashboard.
 8. Schedule a notification to the admin email id when the available stock goes beyond the threshold value. (e.g. the total pizza base is below 20 after so many consecutive orders, trigger an email)
 9. Admin must receive the order and change the status of the pizza- as order received, In the kitchen, and Sent to delivery.
-10. For every update from the admin, the status change must be reflected in the user dashboard
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-58. 
-
+10. For every update from the admin, the status change must be reflected in the user dashboard.
